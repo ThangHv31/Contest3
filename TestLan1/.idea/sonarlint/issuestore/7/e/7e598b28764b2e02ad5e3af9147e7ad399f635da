@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýêÉŠÿÿÿÿÿ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ýÿÿÿÿ
+v
+java:S1210&"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ä×¶É8ï•Î˜¹0
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(’õ¸„ûÿÿÿÿ
